@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Winforms
+- 🔭 I’m currently working on GeoPrize
 - 🌱 I’m currently learning TensorFlow
 - 👯 I’m looking to collaborate on Blockchain Supply Chain
 - 💬 Ask me about Scientific Workflow Provenance Management
